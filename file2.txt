@@ -1,1 +1,4 @@
 Este é o exemplo de um ficheiro de texto file2
+
+
+Vou fazer uma alteração em NovaFeature!!
