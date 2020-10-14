@@ -1,4 +1,9 @@
-Este é o exemplo de um (apaguei ficheiro de texto) file2
+<<<<<<< HEAD
+Este é o exemplo de um file2
 
 
 Acrescentei alterações em Master!!
+=======
+
+Vou fazer uma alteração em NovaFeature!!
+>>>>>>> NovaFeature
