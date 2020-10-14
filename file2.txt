@@ -1,1 +1,4 @@
-Este é o exemplo de um ficheiro de texto file2
+Este é o exemplo de um (apaguei ficheiro de texto) file2
+
+
+Acrescentei alterações em Master!!
